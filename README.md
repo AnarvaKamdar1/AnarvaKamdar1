@@ -69,13 +69,7 @@ An ML-assisted security analytics system exploring the application of **deep lea
 
 `Git` · `GitHub` · `Jupyter`
 
----
 
-## Current Focus
-
-Exploring **reliable and interpretable AI systems**, particularly at the intersection of:
-
-**Retrieval → Reasoning → Evidence → Explanation**
 
 ---
 
