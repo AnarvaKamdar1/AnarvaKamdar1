@@ -1,78 +1,66 @@
-# Anarva Kamdar
+# Hi, I'm Anarva Kamdar
 
-### AI/ML Researcher · Explainable AI · Retrieval-Augmented Generation · Trustworthy ML
+I'm interested in **machine learning, explainable AI, retrieval-augmented systems, and applied ML**.
 
-I work on **machine learning systems that are interpretable, evidence-driven, and practically useful**.
+I like working on projects where I can understand not just whether a model works, but **why it works, what evidence supports it, and how it behaves in a real system**.
 
-My interests span **Explainable AI, Retrieval-Augmented Generation, scientific NLP, computer vision, and ML for cybersecurity**, with an emphasis on understanding model behaviour rather than treating models as black boxes.
+## What I'm interested in
 
----
-
-## Research & Technical Interests
-
-* **Explainable & Trustworthy AI** — SHAP, counterfactual explanations, interpretable ML
-* **Retrieval-Augmented Generation** — information retrieval, reranking, evidence-grounded generation
-* **Natural Language Processing** — scientific and biomedical NLP, transformer-based models
-* **Computer Vision** — semantic segmentation and lightweight perception models
-* **AI for Cybersecurity** — security analytics and ML-assisted SOC workflows
-
----
+* Explainable & Trustworthy AI
+* Retrieval-Augmented Generation and Information Retrieval
+* Scientific & Biomedical NLP
+* Computer Vision
+* ML for Cybersecurity
+* Queueing Theory & System Simulation
 
 ## Selected Projects
 
 ### 🔬 [SciVerify — Scientific Claim Verification using RAG](https://github.com/AnarvaKamdar1/SciVerify-Scientific-Claim-Verification-using-RAG)
 
-An evidence-grounded scientific claim verification pipeline combining **BM25 retrieval, cross-encoder reranking, BioBERT/SciBERT verification, and RAG-based explanations**.
+A scientific claim verification pipeline combining **BM25 retrieval, cross-encoder reranking, BioBERT/SciBERT verification, and citation-grounded RAG explanations**.
 
-**Focus:** RAG · Information Retrieval · Biomedical NLP · Transformers
-
----
+`RAG` `Information Retrieval` `Biomedical NLP` `Transformers`
 
 ### 🏥 [Clinical Counterfactual Risk Explorer](https://github.com/AnarvaKamdar1/Clinical-Counterfactual-Risk-Explorer)
 
-An explainable ML framework for exploring patient risk through **latent representations, demographic-aware nearest-neighbour prototypes, healthier-profile exploration, and SHAP-based explanations**.
+An interpretable clinical risk prediction system using **latent representations, kNN-based prototype retrieval, SHAP explanations, and counterfactual analysis**.
 
-**Focus:** Explainable AI · Counterfactual Analysis · Tabular ML · Healthcare AI
-
----
+`Explainable AI` `Counterfactuals` `Tabular ML`
 
 ### 🛡️ [SOC Analyst Assistant](https://github.com/AnarvaKamdar1/SOC-Analyst-Assistant)
 
-An ML-assisted security analytics system exploring the application of **deep learning and ensemble models to security operations workflows**.
+An ML-assisted security analytics project exploring **ensemble models, deep learning, evidence fusion, MITRE ATT&CK grounding, and LLM-generated incident reports**.
 
-**Focus:** Cybersecurity · Machine Learning · Security Analytics
+`Cybersecurity` `Machine Learning` `Security Analytics`
 
----
+### ⚙️ [Dynamic Server Autoscaling Simulator](https://github.com/AnarvaKamdar1/Dynamic-Server-AutoScaling-Simulator)
 
-## Additional Work
+An event-driven **M/M/c queueing simulator** for studying dynamic server autoscaling under changing workloads. It compares static provisioning with different threshold-based scaling policies using **Monte Carlo experiments** and looks at the trade-off between **latency and server-hours**.
 
-* 🚗 **Lightweight Perception Models for Autonomous Driving** — semantic segmentation and efficient computer-vision models
-* 💳 **Explainable Black-Box SVM for Financial Risk Prediction** — RBF-SVM with custom Shapley-value based explanations
+`Queueing Theory` `Discrete-Event Simulation` `Autoscaling` `Monte Carlo`
 
----
+### 🚗 [Lightweight Perception Models for Autonomous Driving](https://github.com/AnarvaKamdar1/Lightweight-Perception-Models-for-Autonomous-Driving)
+
+A segmentation-based computer vision project exploring lightweight perception models for autonomous driving.
+
+`Computer Vision` `Semantic Segmentation`
+
+### 💳 [Explainable Black-Box SVM for Financial Risk Prediction](https://github.com/AnarvaKamdar1/Explainable-Black-Box-SVM-Model-for-Financial-Risk-Prediction)
+
+An interpretable credit-risk prediction project using an **RBF-SVM** together with a custom SHAP-based approach for explaining model predictions.
+
+`SVM` `Explainable AI` `Financial Risk`
 
 ## Technical Stack
 
-**Languages**
+**Languages:** Python · C++ · SQL
 
-`Python` · `C++` · `SQL`
+**ML:** PyTorch · scikit-learn · Hugging Face Transformers
 
-**Machine Learning**
+**Methods:** RAG · Information Retrieval · Explainable AI · Computer Vision · Deep Learning · Simulation
 
-`PyTorch`  · `scikit-learn` · `Hugging Face Transformers`
-
-**Methods**
-
-`RAG` · `Information Retrieval` · `Explainable AI` · `Computer Vision` · `Deep Learning`
-
-**Tools**
-
-`Git` · `GitHub` · `Jupyter`
-
-
+**Tools:** Git · GitHub · Jupyter
 
 ---
 
-<p align="center">
-  <i>Building ML systems that are not only accurate, but also understandable and defensible.</i>
-</p>
+I’m interested in building ML systems that are **useful, understandable, and grounded in evidence**.
