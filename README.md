@@ -6,7 +6,7 @@ I like working on projects where I can understand not just whether a model works
 
 ## What I'm interested in
 
-* Explainable & Trustworthy AI
+* Explainable AI
 * Retrieval-Augmented Generation and Information Retrieval
 * Scientific & Biomedical NLP
 * Computer Vision
