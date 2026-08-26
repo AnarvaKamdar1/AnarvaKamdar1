@@ -27,17 +27,17 @@ An interpretable clinical risk prediction system using **latent representations,
 
 `Explainable AI` `Counterfactuals` `Tabular ML`
 
-### 🛡️ [SOC Analyst Assistant](https://github.com/AnarvaKamdar1/SOC-Analyst-Assistant)
-
-An ML-assisted security analytics project exploring **ensemble models, deep learning, evidence fusion, MITRE ATT&CK grounding, and LLM-generated incident reports**.
-
-`Cybersecurity` `Machine Learning` `Security Analytics`
-
 ### ⚙️ [Dynamic Server Autoscaling Simulator](https://github.com/AnarvaKamdar1/Dynamic-Server-AutoScaling-Simulator)
 
 An event-driven **M/M/c queueing simulator** for studying dynamic server autoscaling under changing workloads. It compares static provisioning with different threshold-based scaling policies using **Monte Carlo experiments** and looks at the trade-off between **latency and server-hours**.
 
 `Queueing Theory` `Discrete-Event Simulation` `Autoscaling` `Monte Carlo`
+
+### 🛡️ [SOC Analyst Assistant](https://github.com/AnarvaKamdar1/SOC-Analyst-Assistant)
+
+An ML-assisted security analytics project exploring **ensemble models, deep learning, evidence fusion, MITRE ATT&CK grounding, and LLM-generated incident reports**.
+
+`Cybersecurity` `Machine Learning` `Security Analytics`
 
 ### 🚗 [Lightweight Perception Models for Autonomous Driving](https://github.com/AnarvaKamdar1/Lightweight-Perception-Models-for-Autonomous-Driving)
 
