@@ -2,15 +2,19 @@
 
 I'm interested in **machine learning, explainable AI, retrieval-augmented systems, and applied ML**.
 
-I like working on projects where I can understand not just whether a model works, but **why it works, what evidence supports it, and how it behaves in a real system**.
+I like working on projects where I can understand not just whether a model works, but why it works, what evidence supports it, and how I can explain its behaviour.
 
-## What I'm interested in
+---
+
+## What I'm interested in :
 
 * Explainable AI
 * Retrieval-Augmented Generation and Information Retrieval
 * Scientific & Biomedical NLP
 * ML for Cybersecurity
 * Mathematical Modelling & System Simulation
+
+---
 
 ## Selected Projects
 
