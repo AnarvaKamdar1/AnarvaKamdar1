@@ -33,7 +33,7 @@ An ML-assisted security analytics system for supporting the investigation of sus
 ### ⚡ [Rate Limiter Simulator](https://github.com/AnarvaKamdar1/Rate-Limiter-Simulator)
 
 A simulation framework for studying how different rate-limiting strategies behave under varying workloads and system conditions. It compares Sliding Window, Token Bucket, and Leaky Bucket approaches across constant, Poisson, and ramp traffic while evaluating throughput, rejection rate, P95 latency, fairness, and rate-limit overshoot in local and distributed settings.
-
+<!--
 ### ⚙️ [Dynamic Server Autoscaling Simulator](https://github.com/AnarvaKamdar1/Dynamic-Server-AutoScaling-Simulator)
 
 An event-driven M/M/c queueing simulator for studying how server capacity should adapt to changing workloads. It evaluates static provisioning against threshold-based autoscaling policies using Monte Carlo experiments, focusing on the trade-off between request latency, resource utilization, and server-hours.
@@ -45,7 +45,7 @@ A computer vision project exploring lightweight semantic segmentation models for
 ### 💳 [Explainable Black-Box SVM for Financial Risk Prediction](https://github.com/AnarvaKamdar1/Explainable-Black-Box-SVM-Model-for-Financial-Risk-Prediction)
 
 An interpretable financial risk prediction system built around an RBF-SVM, where the underlying model is treated as a black box and explained through a custom SHAP-based approach. The project focuses on making nonlinear credit-risk predictions more understandable by connecting individual predictions to the feature contributions behind them.
-
+-->
 ## Technical Stack
 
 **Languages:** Python · C++ · SQL
