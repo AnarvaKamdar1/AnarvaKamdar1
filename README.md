@@ -20,46 +20,31 @@ I like working on projects where I can understand not just whether a model works
 
 ### 🔬 [SciVerify — Scientific Claim Verification using RAG](https://github.com/AnarvaKamdar1/SciVerify-Scientific-Claim-Verification-using-RAG)
 
-A scientific claim verification pipeline combining **BM25 retrieval, hybrid cross-encoder reranking, BioBERT verification, and citation-grounded RAG explanations**.
-
-`RAG` `Information Retrieval` `Biomedical NLP` `Transformers`
+A scientific claim verification pipeline designed to retrieve relevant evidence and determine whether a claim is supported by the literature. It combines BM25 retrieval, cross-encoder reranking, BioBERT-based verification, and citation-grounded RAG to produce evidence-backed explanations rather than relying solely on generative outputs.
 
 ### 🏥 [Clinical Counterfactual Risk Explorer](https://github.com/AnarvaKamdar1/Clinical-Counterfactual-Risk-Explorer)
 
-An interpretable clinical risk prediction system using **latent representations, kNN-based prototype retrieval, SHAP explanations, and counterfactual analysis**.
-
-`Explainable AI` `Counterfactuals` `Tabular ML`
+An interpretable clinical risk prediction system that goes beyond a single prediction by identifying similar patient prototypes and explaining why a prediction was made. It combines latent representations, kNN prototype retrieval, SHAP explanations, and counterfactual analysis to study both model behaviour and how individual predictions could change under different feature values.
 
 ### 🛡️ [SOC Analyst Assistant](https://github.com/AnarvaKamdar1/SOC-Analyst-Assistant)
 
-An ML-assisted security analytics project exploring **ensemble models, deep learning, evidence fusion, MITRE ATT&CK grounding, and LLM-generated incident reports**.
-
-`Cybersecurity` `Machine Learning` `Security Analytics`
+An ML-assisted security analytics system for supporting the investigation of suspicious events and generating structured incident reports. The project explores ensemble models, deep learning, evidence fusion, MITRE ATT&CK grounding, and LLM-based reasoning to connect model predictions with security context and supporting evidence.
 
 ### ⚡ [Rate Limiter Simulator](https://github.com/AnarvaKamdar1/Rate-Limiter-Simulator)
 
-A Monte Carlo simulation framework for comparing rate-limiting algorithms under different traffic patterns, distributed-system conditions, and failure scenarios.
-
-`Rate Limiting` `Systems Simulation` `Monte Carlo` `Performance Analysis`
-
+A simulation framework for studying how different rate-limiting strategies behave under varying workloads and system conditions. It compares Sliding Window, Token Bucket, and Leaky Bucket approaches across constant, Poisson, and ramp traffic while evaluating throughput, rejection rate, P95 latency, fairness, and rate-limit overshoot in local and distributed settings.
 
 ### ⚙️ [Dynamic Server Autoscaling Simulator](https://github.com/AnarvaKamdar1/Dynamic-Server-AutoScaling-Simulator)
 
-An event-driven **M/M/c queueing simulator** for studying dynamic server autoscaling under changing workloads. It compares static provisioning with different threshold-based scaling policies using **Monte Carlo experiments** and looks at the trade-off between **latency and server-hours**.
-
-`Queueing Theory` `Discrete-Event Simulation` `Autoscaling` `Monte Carlo`
+An event-driven M/M/c queueing simulator for studying how server capacity should adapt to changing workloads. It evaluates static provisioning against threshold-based autoscaling policies using Monte Carlo experiments, focusing on the trade-off between request latency, resource utilization, and server-hours.
 
 ### 🚗 [Lightweight Perception Models for Autonomous Driving](https://github.com/AnarvaKamdar1/Lightweight-Perception-Models-for-Autonomous-Driving)
 
-A segmentation-based computer vision project exploring lightweight perception models for autonomous driving.
-
-`Computer Vision` `Semantic Segmentation`
+A computer vision project exploring lightweight semantic segmentation models for autonomous-driving perception. The project focuses on reducing model complexity while maintaining useful segmentation performance, highlighting the trade-off between model efficiency and perception accuracy for resource-constrained deployment.
 
 ### 💳 [Explainable Black-Box SVM for Financial Risk Prediction](https://github.com/AnarvaKamdar1/Explainable-Black-Box-SVM-Model-for-Financial-Risk-Prediction)
 
-An interpretable credit-risk prediction project using an **RBF-SVM** together with a custom SHAP-based approach for explaining model predictions.
-
-`SVM` `Explainable AI` `Financial Risk`
+An interpretable financial risk prediction system built around an RBF-SVM, where the underlying model is treated as a black box and explained through a custom SHAP-based approach. The project focuses on making nonlinear credit-risk predictions more understandable by connecting individual predictions to the feature contributions behind them.
 
 ## Technical Stack
 
@@ -67,7 +52,7 @@ An interpretable credit-risk prediction project using an **RBF-SVM** together wi
 
 **ML:** PyTorch · scikit-learn · Hugging Face Transformers
 
-**Methods:** RAG · Information Retrieval · Explainable AI · Computer Vision · Deep Learning · Simulation
+**Methods:** RAG · Information Retrieval · Explainable AI · Deep Learning · Simulation
 
 **Tools:** Git · GitHub · Jupyter
 
