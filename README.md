@@ -22,7 +22,7 @@ I like working on projects where I can understand not just whether a model works
 
 A scientific claim verification pipeline designed to retrieve relevant evidence and determine whether a claim is supported by the literature. It combines BM25 retrieval, cross-encoder reranking, BioBERT-based verification, and citation-grounded RAG to produce evidence-backed explanations rather than relying solely on generative outputs.
 
-### 🏥 [Clinical Counterfactual Risk Explorer](https://github.com/AnarvaKamdar1/Clinical-Counterfactual-Risk-Explorer)
+### 🏥 [Explanable Clinical Counterfactual Risk Explorer](https://github.com/AnarvaKamdar1/Explanable-Clinical-Counterfactual-Risk-Explorer)
 
 An interpretable clinical risk prediction system that goes beyond a single prediction by identifying similar patient prototypes and explaining why a prediction was made. It combines latent representations, kNN prototype retrieval, SHAP explanations, and counterfactual analysis to study both model behaviour and how individual predictions could change under different feature values.
 
