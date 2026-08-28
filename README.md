@@ -9,15 +9,14 @@ I like working on projects where I can understand not just whether a model works
 * Explainable AI
 * Retrieval-Augmented Generation and Information Retrieval
 * Scientific & Biomedical NLP
-* Computer Vision
 * ML for Cybersecurity
-* Queueing Theory & System Simulation
+* Mathematical Modelling & System Simulation
 
 ## Selected Projects
 
 ### 🔬 [SciVerify — Scientific Claim Verification using RAG](https://github.com/AnarvaKamdar1/SciVerify-Scientific-Claim-Verification-using-RAG)
 
-A scientific claim verification pipeline combining **BM25 retrieval, cross-encoder reranking, BioBERT/SciBERT verification, and citation-grounded RAG explanations**.
+A scientific claim verification pipeline combining **BM25 retrieval, hybrid cross-encoder reranking, BioBERT verification, and citation-grounded RAG explanations**.
 
 `RAG` `Information Retrieval` `Biomedical NLP` `Transformers`
 
@@ -27,17 +26,24 @@ An interpretable clinical risk prediction system using **latent representations,
 
 `Explainable AI` `Counterfactuals` `Tabular ML`
 
-### ⚙️ [Dynamic Server Autoscaling Simulator](https://github.com/AnarvaKamdar1/Dynamic-Server-AutoScaling-Simulator)
-
-An event-driven **M/M/c queueing simulator** for studying dynamic server autoscaling under changing workloads. It compares static provisioning with different threshold-based scaling policies using **Monte Carlo experiments** and looks at the trade-off between **latency and server-hours**.
-
-`Queueing Theory` `Discrete-Event Simulation` `Autoscaling` `Monte Carlo`
-
 ### 🛡️ [SOC Analyst Assistant](https://github.com/AnarvaKamdar1/SOC-Analyst-Assistant)
 
 An ML-assisted security analytics project exploring **ensemble models, deep learning, evidence fusion, MITRE ATT&CK grounding, and LLM-generated incident reports**.
 
 `Cybersecurity` `Machine Learning` `Security Analytics`
+
+### ⚡ [Rate Limiter Simulator](https://github.com/AnarvaKamdar1/Rate-Limiter-Simulator)
+
+A Monte Carlo simulation framework for comparing rate-limiting algorithms under different traffic patterns, distributed-system conditions, and failure scenarios.
+
+`Rate Limiting` `Systems Simulation` `Monte Carlo` `Performance Analysis`
+
+
+### ⚙️ [Dynamic Server Autoscaling Simulator](https://github.com/AnarvaKamdar1/Dynamic-Server-AutoScaling-Simulator)
+
+An event-driven **M/M/c queueing simulator** for studying dynamic server autoscaling under changing workloads. It compares static provisioning with different threshold-based scaling policies using **Monte Carlo experiments** and looks at the trade-off between **latency and server-hours**.
+
+`Queueing Theory` `Discrete-Event Simulation` `Autoscaling` `Monte Carlo`
 
 ### 🚗 [Lightweight Perception Models for Autonomous Driving](https://github.com/AnarvaKamdar1/Lightweight-Perception-Models-for-Autonomous-Driving)
 
