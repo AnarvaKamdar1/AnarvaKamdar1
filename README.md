@@ -30,18 +30,18 @@ An interpretable clinical risk prediction system that goes beyond a single predi
 
 An ML-assisted security analytics system for supporting the investigation of suspicious events and generating structured incident reports. The project explores ensemble models, deep learning, evidence fusion, MITRE ATT&CK grounding, and LLM-based reasoning to connect model predictions with security context and supporting evidence.
 
-### ⚡ [Rate Limiter Simulator](https://github.com/AnarvaKamdar1/Rate-Limiter-Simulator)
+### ⚙️ [Dynamic Server Autoscaling Simulator](https://github.com/AnarvaKamdar1/Dynamic-Server-AutoScaling-Simulator)
 
-A simulation framework for studying how different rate-limiting strategies behave under varying workloads and system conditions. It compares Sliding Window, Token Bucket, and Leaky Bucket approaches across constant, Poisson, and ramp traffic while evaluating throughput, rejection rate, P95 latency, fairness, and rate-limit overshoot in local and distributed settings.
+An event-driven M/M/c queueing simulator for studying how server capacity should adapt to changing workloads. It evaluates static provisioning against threshold-based autoscaling policies using Monte Carlo experiments, focusing on the trade-off between request latency, resource utilization, and server-hours.
 
 ### 📊 [Data Pulse : Real-Time Data Ingestion & Monitoring](https://github.com/AnarvaKamdar1/Data-Pulse)
 
 A lightweight real-time data ingestion and monitoring system for live Binance trade streams. It uses WebSockets for event-driven ingestion, Pydantic for validation, SQLite for rolling data retention, Pandas for time-based analytics, and Streamlit for live monitoring of market activity across BTCUSDT, ETHUSDT, and SOLUSDT.
 
 <!--
-### ⚙️ [Dynamic Server Autoscaling Simulator](https://github.com/AnarvaKamdar1/Dynamic-Server-AutoScaling-Simulator)
+### ⚡ [Rate Limiter Simulator](https://github.com/AnarvaKamdar1/Rate-Limiter-Simulator)
 
-An event-driven M/M/c queueing simulator for studying how server capacity should adapt to changing workloads. It evaluates static provisioning against threshold-based autoscaling policies using Monte Carlo experiments, focusing on the trade-off between request latency, resource utilization, and server-hours.
+A simulation framework for studying how different rate-limiting strategies behave under varying workloads and system conditions. It compares Sliding Window, Token Bucket, and Leaky Bucket approaches across constant, Poisson, and ramp traffic while evaluating throughput, rejection rate, P95 latency, fairness, and rate-limit overshoot in local and distributed settings.
 
 ### 🚗 [Lightweight Perception Models for Autonomous Driving](https://github.com/AnarvaKamdar1/Lightweight-Perception-Models-for-Autonomous-Driving)
 
