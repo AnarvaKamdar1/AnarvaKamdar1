@@ -33,6 +33,11 @@ An ML-assisted security analytics system for supporting the investigation of sus
 ### ⚡ [Rate Limiter Simulator](https://github.com/AnarvaKamdar1/Rate-Limiter-Simulator)
 
 A simulation framework for studying how different rate-limiting strategies behave under varying workloads and system conditions. It compares Sliding Window, Token Bucket, and Leaky Bucket approaches across constant, Poisson, and ramp traffic while evaluating throughput, rejection rate, P95 latency, fairness, and rate-limit overshoot in local and distributed settings.
+
+### 📊 Data Pulse — Real-Time Data Ingestion & Monitoring
+
+A lightweight real-time data ingestion and monitoring system for live Binance trade streams. It uses WebSockets for event-driven ingestion, Pydantic for validation, SQLite for rolling data retention, Pandas for time-based analytics, and Streamlit for live monitoring of market activity across BTCUSDT, ETHUSDT, and SOLUSDT.
+
 <!--
 ### ⚙️ [Dynamic Server Autoscaling Simulator](https://github.com/AnarvaKamdar1/Dynamic-Server-AutoScaling-Simulator)
 
