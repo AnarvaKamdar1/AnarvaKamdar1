@@ -18,7 +18,7 @@ I like working on projects where I can understand not just whether a model works
 
 ## Selected Projects
 
-### 🔬 [SciVerify — Scientific Claim Verification using RAG](https://github.com/AnarvaKamdar1/SciVerify-Scientific-Claim-Verification-using-RAG)
+### 🔬 [SciVerify : Scientific Claim Verification using RAG](https://github.com/AnarvaKamdar1/SciVerify-Scientific-Claim-Verification-using-RAG)
 
 A scientific claim verification pipeline designed to retrieve relevant evidence and determine whether a claim is supported by the literature. It combines BM25 retrieval, cross-encoder reranking, BioBERT-based verification, and citation-grounded RAG to produce evidence-backed explanations rather than relying solely on generative outputs.
 
@@ -34,7 +34,7 @@ An ML-assisted security analytics system for supporting the investigation of sus
 
 A simulation framework for studying how different rate-limiting strategies behave under varying workloads and system conditions. It compares Sliding Window, Token Bucket, and Leaky Bucket approaches across constant, Poisson, and ramp traffic while evaluating throughput, rejection rate, P95 latency, fairness, and rate-limit overshoot in local and distributed settings.
 
-### 📊 Data Pulse — Real-Time Data Ingestion & Monitoring
+### 📊 [Data Pulse : Real-Time Data Ingestion & Monitoring](https://github.com/AnarvaKamdar1/Data-Pulse)
 
 A lightweight real-time data ingestion and monitoring system for live Binance trade streams. It uses WebSockets for event-driven ingestion, Pydantic for validation, SQLite for rolling data retention, Pandas for time-based analytics, and Streamlit for live monitoring of market activity across BTCUSDT, ETHUSDT, and SOLUSDT.
 
